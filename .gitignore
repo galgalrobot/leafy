@@ -4,6 +4,9 @@
 ### 환경변수 설정 ###
 .env
 
+# Local configuration files
+application-local.yml
+
 # Spring Boot specific logs (optional, if you configure logging differently)
 logs/
 
