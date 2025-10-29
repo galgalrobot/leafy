@@ -3,6 +3,8 @@
 
 ### 환경변수 설정 ###
 .env
+### 로컬 개발시 사용할 yml 파일 ###
+application-local.yml
 
 # Local configuration files
 application-local.yml
